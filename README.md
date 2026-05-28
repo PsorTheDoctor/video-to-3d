@@ -6,8 +6,8 @@ Reconstruct a 3D scene from a video clip!
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/PsorTheDoctor/fast-video-to-3d.git
-cd fast-video-to-3d
+git clone https://github.com/PsorTheDoctor/video-to-3d.git
+cd video-to-3d
 ```
 2. Ensure Python interpreter is installed. Then create a virtual environment (optional but recommended):
 ```bash

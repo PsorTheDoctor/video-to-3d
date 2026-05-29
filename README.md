@@ -1,5 +1,5 @@
 # Video to 3D
-Reconstruct a 3D scene from a video clip!
+Reconstruct a geometrically coherent 3D scene from a video clip!
 
 ![Demo](results/demo.gif)
 
@@ -29,3 +29,7 @@ Or run it on your own videos (taken from the `data` folder by default):
 ```bash
 python main.py --video_path your_video.mp4
 ```
+
+### Command-line arguments
+* `--video_path`: Path to the input video file.
+* `--save`: Save the final point cloud to the `results` folder.
